@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-21T13:17:46Z" name="Default suite" finished-at="2021-09-21T13:17:46Z" duration-ms="84">
+    <groups>
+    </groups>
+    <test started-at="2021-09-21T13:17:46Z" name="Default test" finished-at="2021-09-21T13:17:46Z" duration-ms="84">
+      <class name="com.comcast.contacttest.ContactTest">
+        <test-method signature="createContactTest()[pri:0, instance:com.comcast.contacttest.ContactTest@53251a66]" started-at="2021-09-21T13:17:46Z" name="createContactTest" finished-at="2021-09-21T13:17:46Z" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactTest -->
+        <test-method signature="createContactWithOrgTest()[pri:0, instance:com.comcast.contacttest.ContactTest@53251a66]" started-at="2021-09-21T13:17:46Z" name="createContactWithOrgTest" finished-at="2021-09-21T13:17:46Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrgTest -->
+        <test-method signature="deleteContactTest()[pri:0, instance:com.comcast.contacttest.ContactTest@53251a66]" started-at="2021-09-21T13:17:46Z" name="deleteContactTest" finished-at="2021-09-21T13:17:46Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteContactTest -->
+      </class> <!-- com.comcast.contacttest.ContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
